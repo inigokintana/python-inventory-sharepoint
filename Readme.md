@@ -18,3 +18,12 @@ https://www.techtarget.com/searchwindowsserver/definition/Windows-Management-Ins
 WMI calling remote machines
 https://stackoverflow.com/questions/30616445/python-script-to-collect-the-hostname-of-remote-windows-server
 
+
+Explore WMI
+https://www.progress.com/blogs/managing-windows-system-administration-with-wmi-and-python
+
+
+
+Device manager details
+https://medium.com/@snotna/automating-windows-device-manager-with-python-and-wmi-883e1171e8cd
+
