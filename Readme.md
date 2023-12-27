@@ -20,7 +20,7 @@ https://stackoverflow.com/questions/30616445/python-script-to-collect-the-hostna
 
 
 Explore WMI
-https://www.progress.com/blogs/managing-windows-system-administration-with-wmi-and-python
+10.136.14.241
 
 
 
